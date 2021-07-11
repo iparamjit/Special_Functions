@@ -4,6 +4,7 @@
 #include<cmath>
 using namespace std;
 
+// factorial() -> to calculate the factorial of the number
 double factorial(double n) {
 	double product = 1;
 	for (double i = 1; i <= n; i++) {
